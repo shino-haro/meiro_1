@@ -105,4 +105,4 @@ for a in range(4):
     num.remove(b)
 
 check()
-check()
+check()   #1度目のcheck()で整理できなかった欠陥と新たに発生した欠陥をチェック
